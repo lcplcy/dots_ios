@@ -14,6 +14,17 @@
 		568BEF021BD353B900F3EAF5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 568BEF001BD353B900F3EAF5 /* LaunchScreen.storyboard */; };
 		568BEF0D1BD353B900F3EAF5 /* dotsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 568BEF0C1BD353B900F3EAF5 /* dotsTests.swift */; };
 		568BEF181BD353BA00F3EAF5 /* dotsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 568BEF171BD353BA00F3EAF5 /* dotsUITests.swift */; };
+		568BEF2A1BD35ABB00F3EAF5 /* Home-25.png in Resources */ = {isa = PBXBuildFile; fileRef = 568BEF291BD35ABB00F3EAF5 /* Home-25.png */; settings = {ASSET_TAGS = (); }; };
+		568BEF2C1BD35B9800F3EAF5 /* Class-25.png in Resources */ = {isa = PBXBuildFile; fileRef = 568BEF2B1BD35B9800F3EAF5 /* Class-25.png */; settings = {ASSET_TAGS = (); }; };
+		568BEF2E1BD35BDB00F3EAF5 /* ClassViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 568BEF2D1BD35BDB00F3EAF5 /* ClassViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		568BEF301BD35FDD00F3EAF5 /* ClassTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 568BEF2F1BD35FDD00F3EAF5 /* ClassTableViewController.swift */; settings = {ASSET_TAGS = (); }; };
+		568BEF321BD3622F00F3EAF5 /* Challenge.plist in Resources */ = {isa = PBXBuildFile; fileRef = 568BEF311BD3622F00F3EAF5 /* Challenge.plist */; settings = {ASSET_TAGS = (); }; };
+		568BEF341BD3753B00F3EAF5 /* DotData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 568BEF331BD3753B00F3EAF5 /* DotData.swift */; settings = {ASSET_TAGS = (); }; };
+		568BEF3D1BD3FB0800F3EAF5 /* Ice Bear 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 568BEF3B1BD3FB0800F3EAF5 /* Ice Bear 1.png */; settings = {ASSET_TAGS = (); }; };
+		568BEF3E1BD3FB0800F3EAF5 /* Ice Bear 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 568BEF3C1BD3FB0800F3EAF5 /* Ice Bear 2.png */; settings = {ASSET_TAGS = (); }; };
+		568BEF411BD3FD2D00F3EAF5 /* Cook-25.png in Resources */ = {isa = PBXBuildFile; fileRef = 568BEF3F1BD3FD2D00F3EAF5 /* Cook-25.png */; settings = {ASSET_TAGS = (); }; };
+		568BEF421BD3FD2D00F3EAF5 /* Shop-25.png in Resources */ = {isa = PBXBuildFile; fileRef = 568BEF401BD3FD2D00F3EAF5 /* Shop-25.png */; settings = {ASSET_TAGS = (); }; };
+		568BEF441BD3FD8000F3EAF5 /* Shop.plist in Resources */ = {isa = PBXBuildFile; fileRef = 568BEF431BD3FD8000F3EAF5 /* Shop.plist */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +58,17 @@
 		568BEF131BD353BA00F3EAF5 /* dotsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = dotsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		568BEF171BD353BA00F3EAF5 /* dotsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dotsUITests.swift; sourceTree = "<group>"; };
 		568BEF191BD353BA00F3EAF5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		568BEF291BD35ABB00F3EAF5 /* Home-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Home-25.png"; path = "../Home-25.png"; sourceTree = "<group>"; };
+		568BEF2B1BD35B9800F3EAF5 /* Class-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Class-25.png"; sourceTree = "<group>"; };
+		568BEF2D1BD35BDB00F3EAF5 /* ClassViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClassViewController.swift; sourceTree = "<group>"; };
+		568BEF2F1BD35FDD00F3EAF5 /* ClassTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClassTableViewController.swift; sourceTree = "<group>"; };
+		568BEF311BD3622F00F3EAF5 /* Challenge.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Challenge.plist; sourceTree = "<group>"; };
+		568BEF331BD3753B00F3EAF5 /* DotData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DotData.swift; sourceTree = "<group>"; };
+		568BEF3B1BD3FB0800F3EAF5 /* Ice Bear 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Ice Bear 1.png"; path = "../Ice Bear 1.png"; sourceTree = "<group>"; };
+		568BEF3C1BD3FB0800F3EAF5 /* Ice Bear 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Ice Bear 2.png"; path = "../Ice Bear 2.png"; sourceTree = "<group>"; };
+		568BEF3F1BD3FD2D00F3EAF5 /* Cook-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Cook-25.png"; sourceTree = "<group>"; };
+		568BEF401BD3FD2D00F3EAF5 /* Shop-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Shop-25.png"; sourceTree = "<group>"; };
+		568BEF431BD3FD8000F3EAF5 /* Shop.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Shop.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,9 +119,20 @@
 		568BEEF61BD353B900F3EAF5 /* dots */ = {
 			isa = PBXGroup;
 			children = (
+				568BEF3B1BD3FB0800F3EAF5 /* Ice Bear 1.png */,
+				568BEF3F1BD3FD2D00F3EAF5 /* Cook-25.png */,
+				568BEF401BD3FD2D00F3EAF5 /* Shop-25.png */,
+				568BEF3C1BD3FB0800F3EAF5 /* Ice Bear 2.png */,
+				568BEF291BD35ABB00F3EAF5 /* Home-25.png */,
 				568BEEF71BD353B900F3EAF5 /* AppDelegate.swift */,
 				568BEEF91BD353B900F3EAF5 /* ViewController.swift */,
 				568BEEFB1BD353B900F3EAF5 /* Main.storyboard */,
+				568BEF2F1BD35FDD00F3EAF5 /* ClassTableViewController.swift */,
+				568BEF331BD3753B00F3EAF5 /* DotData.swift */,
+				568BEF311BD3622F00F3EAF5 /* Challenge.plist */,
+				568BEF431BD3FD8000F3EAF5 /* Shop.plist */,
+				568BEF2D1BD35BDB00F3EAF5 /* ClassViewController.swift */,
+				568BEF2B1BD35B9800F3EAF5 /* Class-25.png */,
 				568BEEFE1BD353B900F3EAF5 /* Assets.xcassets */,
 				568BEF001BD353B900F3EAF5 /* LaunchScreen.storyboard */,
 				568BEF031BD353B900F3EAF5 /* Info.plist */,
@@ -228,9 +261,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				568BEF421BD3FD2D00F3EAF5 /* Shop-25.png in Resources */,
+				568BEF441BD3FD8000F3EAF5 /* Shop.plist in Resources */,
 				568BEF021BD353B900F3EAF5 /* LaunchScreen.storyboard in Resources */,
 				568BEEFF1BD353B900F3EAF5 /* Assets.xcassets in Resources */,
+				568BEF2C1BD35B9800F3EAF5 /* Class-25.png in Resources */,
+				568BEF411BD3FD2D00F3EAF5 /* Cook-25.png in Resources */,
 				568BEEFD1BD353B900F3EAF5 /* Main.storyboard in Resources */,
+				568BEF321BD3622F00F3EAF5 /* Challenge.plist in Resources */,
+				568BEF2A1BD35ABB00F3EAF5 /* Home-25.png in Resources */,
+				568BEF3E1BD3FB0800F3EAF5 /* Ice Bear 2.png in Resources */,
+				568BEF3D1BD3FB0800F3EAF5 /* Ice Bear 1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -255,7 +296,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				568BEF341BD3753B00F3EAF5 /* DotData.swift in Sources */,
+				568BEF2E1BD35BDB00F3EAF5 /* ClassViewController.swift in Sources */,
 				568BEEFA1BD353B900F3EAF5 /* ViewController.swift in Sources */,
+				568BEF301BD35FDD00F3EAF5 /* ClassTableViewController.swift in Sources */,
 				568BEEF81BD353B900F3EAF5 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
